@@ -22,13 +22,13 @@ repository               : "prinnn4/prinnn4.github.io"
 author:
   # Biographic information
   avatar           : "IMG_8146.HEIC"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Family Sciences and Information Sciences"
+  pronouns         : "she/her"  
+  bio              : "BS at University of Maryland, College Park"
+  location         : "College Park, MD"
+  employer         : "University of Maryland, College Park"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "prinnn4@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
